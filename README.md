@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # Hello folks!👋
 
-I'm Rahul Meghani. I am from India, currently in Canada pursuing my Masters degree at University of Windsor
+I'm Rahul Meghani. I have 3 years of experience in the Software development. 
 
 
 ## 🔧 Languages & Tools
