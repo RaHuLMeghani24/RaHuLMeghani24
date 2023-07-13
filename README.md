@@ -41,13 +41,13 @@ I'm Rahul Meghani. I have 3 years of experience in the Software development.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RaHuLMeghani24&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rahul's GitHub Stats" />
 </a>
 <a href="https://github.com/RaHuLMeghani24/RaHuLMeghani24">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RaHuLMeghani24&repo=airbnb-clone&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=RaHuLMeghani24&repo=airbnb-clone&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/RaHuLMeghani24/RaHuLMeghani24">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RaHuLMeghani24&repo=metaverse-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=RaHuLMeghani24&repo=metaverse-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/RaHuLMeghani24/RaHuLMeghani24">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RaHuLMeghani24&repo=cricket-data-processor&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=RaHuLMeghani24&repo=cricket-data-processor&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 ## 🔗 &nbsp;**Connect with me**
