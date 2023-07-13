@@ -19,7 +19,11 @@ Here are some ideas to get you started:
 
 # Hello folks!👋
 
-I'm Rahul Meghani. I have 3 years of experience in the Software development. 
+As a Software Engineer with almost 3 years of experience in full-stack development, I am passionate about delivering user-centered websites that scale. I have a track record of consistently achieving high client satisfaction and timely delivery by managing end-to-end software lifecycles for multiple projects. My proficiency in Java, Python, and NodeJS, combined with my experience in implementing eCommerce and SaaS web-based applications, make me a valuable asset to any organization. 
+
+I am skilled in agile development and cross-functional team collaboration, leveraging Scrum methodology and JIRA to optimize software workflow management. My expertise in frameworks and tools like Spring Boot, MVC, Microservices, as well as databases like MySQL, Postgres, MongoDB, and Cassandra, has allowed me to develop responsive, accessible, and high-performance UIs that meet the needs of end-users. 
+
+I have a Master's degree in Applied Computing from the University of Windsor, where I earned a GPA of 3.7/4.0. I also hold a Bachelor's degree in Computer Engineering from Gujarat Technological University (GTU) with a GPA of 8.82/10.00.
 
 
 ## 🔧 Languages & Tools
@@ -35,19 +39,19 @@ I'm Rahul Meghani. I have 3 years of experience in the Software development.
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/RaHuLMeghani24/RaHuLMeghani24">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaHuLMeghani24&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RaHuLMeghani24&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/RaHuLMeghani24/RaHuLMeghani24">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RaHuLMeghani24&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rahul's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RaHuLMeghani24&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rahul's GitHub Stats" />
 </a>
 <a href="https://github.com/RaHuLMeghani24/RaHuLMeghani24">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=RaHuLMeghani24&repo=airbnb-clone&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=RaHuLMeghani24&repo=airbnb-clone&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/RaHuLMeghani24/RaHuLMeghani24">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=RaHuLMeghani24&repo=metaverse-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=RaHuLMeghani24&repo=metaverse-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/RaHuLMeghani24/RaHuLMeghani24">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=RaHuLMeghani24&repo=cricket-data-processor&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=RaHuLMeghani24&repo=cricket-data-processor&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 ## 🔗 &nbsp;**Connect with me**
